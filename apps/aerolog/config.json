@@ -1,11 +1,11 @@
-﻿{
+{
   "name": "AeroLog",
   "id": "aerolog",
   "available": true,
   "short_desc": "Carnet de vols personnel (passager & Ã©quipage) avec import des traces KML Flightradar24.",
   "author": "Pierre NOUEN DESGRANGES",
   "port": 8742,
-  "categories": ["utilities", "data"],
+  "categories": ["utilities"],
   "description": "Carnet de vols auto-hÃ©bergÃ© : saisie des vols en tant que passager, membre d'Ã©quipage ou en MEP, carte des vols, statistiques dÃ©taillÃ©es, import des trajectoires rÃ©elles au format KML/CSV Flightradar24 avec profil d'altitude, import groupÃ©, sauvegarde JSON/CSV.",
   "tipi_version": 1,
   "version": "1.0.0",
@@ -31,7 +31,6 @@
       "env_variable": "AEROLOG_SECRET"
     }
   ],
-  "min_tipi_version": "4.5.0",
   "created_at": 1792098675639,
   "updated_at": 1792098675639
 }
