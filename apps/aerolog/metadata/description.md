@@ -10,6 +10,8 @@ Carnet de vols personnel auto-hébergé, pensé pour les passagers **et** le per
 - **Pré-remplissage depuis le KML** : aéroports, date, heures, n° de vol, indicatif, compagnie
 - **Import groupé** : un vol créé automatiquement par fichier KML déposé
 - **Carte** de tous les vols (orthodromies ou traces réelles) et **statistiques** : années, aéroports, compagnies, liaisons, avions, immatriculations, pays, records
+- **Cartes vectorielles** MapLibre + OpenFreeMap (sombre, Fiord, clair, Liberty, Bright), vue globe
+- **Reprise depuis FlightLog** (perdian/flightlog) : import direct des exports JSON ou XML
 - **Sauvegarde** : export/import JSON (traces incluses) et CSV
 
 ## Configuration
