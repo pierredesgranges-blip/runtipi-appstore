@@ -12,6 +12,7 @@ Carnet de vols personnel auto-hébergé, pensé pour les passagers **et** le per
 - **Carte** de tous les vols (orthodromies ou traces réelles) et **statistiques** : années, aéroports, compagnies, liaisons, avions, immatriculations, pays, records
 - **Cartes vectorielles** MapLibre + OpenFreeMap (sombre, Fiord, clair, Liberty, Bright), vue globe
 - **Reprise depuis FlightLog** (perdian/flightlog) : import direct des exports JSON ou XML
+- **Application mobile installable** (PWA) sur Android : barre d'onglets, consultation hors connexion, partage direct d'un KML vers AeroLog
 - **Sauvegarde** : export/import JSON (traces incluses) et CSV
 
 ## Configuration

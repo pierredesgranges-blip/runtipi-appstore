@@ -9,8 +9,8 @@
     "utilities"
   ],
   "description": "Carnet de vols auto-hébergé : saisie des vols en tant que passager, membre d'équipage ou en MEP, carte des vols, statistiques détaillées, import des trajectoires réelles au format KML/CSV Flightradar24 avec profil d'altitude, import groupé, sauvegarde JSON/CSV.",
-  "tipi_version": 2,
-  "version": "1.1.0",
+  "tipi_version": 3,
+  "version": "1.2.0",
   "source": "https://github.com/pierredesgranges-blip/aerolog",
   "exposable": true,
   "dynamic_config": true,
@@ -67,5 +67,5 @@
     }
   ],
   "created_at": 1792098675639,
-  "updated_at": 1792100444008
+  "updated_at": 1792103872505
 }

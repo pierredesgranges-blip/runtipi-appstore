@@ -1,6 +1,6 @@
 services:
   aerolog:
-    image: ghcr.io/pierredesgranges-blip/aerolog:1.1.0
+    image: ghcr.io/pierredesgranges-blip/aerolog:1.2.0
     environment:
       - TZ=${TZ}
       - AEROLOG_PASSWORD=${AEROLOG_PASSWORD}
